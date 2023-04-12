@@ -2,7 +2,6 @@
 
 1. follow up onunanser questions
 	* What is the effect of MOOCs citations?
-	* What about altmetrics?
 2. method
 	* clustering
 
