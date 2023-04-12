@@ -5,3 +5,5 @@
 2. method
 	* clustering
 
+3.  hypothesis
+	* too difficult to measure
